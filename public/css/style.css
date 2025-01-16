@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #7D3CB6; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 900px;
+  }
+  
+  .social-card {
+    text-align: center;
+    color: #fff;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .icon {
+    font-size: 50px;
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .count {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  .label {
+    font-size: 18px;
+  }
+  
